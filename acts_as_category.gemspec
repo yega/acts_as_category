@@ -1,5 +1,5 @@
 $:.unshift File.expand_path('../lib', __FILE__)
-require 'acts_as_cateogry'
+require 'acts_as_category'
 
 Gem::Specification.new do |s|
   s.name = 'acts_as_category'
